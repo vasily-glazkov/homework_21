@@ -3,9 +3,6 @@ from logistic_classes import Store, Shop, Request
 Store.add("печеньки", 3)
 Store.add("собачки", 2)
 Store.add("коробки", 5)
-# Store.add("коровы", 33)
-# Store.add("ответы", 42)
-# Store.add("черти", 13)
 
 Shop.add("собачки", 2)
 Shop.add("коробки", 5)
